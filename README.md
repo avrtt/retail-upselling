@@ -1,3 +1,7 @@
+> ⚠️ **The project is under development!**
+
+<br/>
+
 This project is a part of my work on association rule mining; it demonstrates a pipeline for market basket analysis aimed at identifying product associations to optimize retail promotions and bundle deals. Although the project was designed using a real company's dataset, the provided example uses simulated data.
 
 Tools:
